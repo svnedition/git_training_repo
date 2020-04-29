@@ -1,2 +1,2 @@
 # git_training_repo
-Reop for learning git
+Repo for learning git
